@@ -68,11 +68,6 @@ https://twitter.com/
 https://www.youtube.com/
 
 
-footer__copy
-&#169; 2021 Bedimcode. All rigths reserved.
 
-footer__terms-link
-Terms & Agreements
-Privacy Policy
 
 
